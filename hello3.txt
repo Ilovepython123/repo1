@@ -2,3 +2,5 @@ aaaaaaaaaaaaaaaaaaaaaaaaaa
 
 开发者2也要对hello3.txt文件进行一些修改，也要将它推送到远程仓库
 
+开发者一对hello3.txt文件进行了一些修改，并且推送到了远程仓库。
+
